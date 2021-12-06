@@ -8,7 +8,7 @@ import time
 
 # Change to user input later
 # user_input = input("Enter a zipcode or Location to check weather forecast: \n ")
-user_input = "l0nden"
+user_input = "76018"
 
 
 def input_check(user_input):
