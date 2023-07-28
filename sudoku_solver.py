@@ -1,9 +1,10 @@
 import pyautogui as pag
 # cmd > pip install pyautogui
 import os
+# Currently test works, but now working on reading screens to solve puzzles automatically from websudoku
 
 def get_path():
-    folderpath = r"/Users/Dan/Python_projects/Sudoku/"
+    folderpath = r'/Users/Dan/Python_projects/Sudoku/'
     filenamelist = []
     for filename in os.listdir('/Users/Dan/Python_projects/Sudoku/'):
         print(filename)
