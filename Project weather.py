@@ -1,3 +1,6 @@
+# This program takes a Zipcode or City Name (US assumption) and returns a local forecast from 3 to 24 hours.
+# Attention! Utilizes API calls
+# Queries Zip and City name to a longitude and latitude to extrapolate weather data forecasts
 # Zip code or city name
 # Create function to check for zip code or city name.
 # https://www.w3schools.com/python/python_try_except.asp?
